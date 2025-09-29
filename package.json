@@ -1,0 +1,28 @@
+{
+  "name": "vp_veeb_enriko",
+  "version": "1.0.0",
+  "description": "2025 veeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://enrikok-hub@github.com/enrikok-hub/vp_veeb.git"
+  },
+  "keywords": [
+    "oppetoo",
+    "node.js",
+    "tallinna",
+    "ulikool"
+  ],
+  "author": "enriko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enrikok-hub/vp_veeb/issues"
+  },
+  "homepage": "https://github.com/enrikok-hub/vp_veeb#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
